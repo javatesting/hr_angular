@@ -1,7 +1,7 @@
 {
-  "name": "auction_ch2",
-  "description": "Sample Online Auction from Chapter 2 from the boo Angular 2 Development with TypeScript",
-  "homepage": "https://www.manning.com/books/angular-2-development-with-typescript",
+  "name": "hr_angular...",
+  "description": "",
+  "homepage": "",
   "private": true,
   "scripts": {
     "start": "live-server",
